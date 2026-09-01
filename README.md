@@ -16,8 +16,6 @@ This website presents my professional profile, including my technical skills, pr
 
 This portfolio serves as my personal space on the web to showcase my development journey, technical interests, and work.
 
-## Contact
+## Author 
 
-GitHub: https://github.com/Nithin3117
-
-LinkedIn: Add your LinkedIn profile here
+Nithin Bollineni
