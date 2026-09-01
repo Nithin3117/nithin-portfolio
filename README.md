@@ -15,7 +15,3 @@ This website presents my professional profile, including my technical skills, pr
 ## Purpose
 
 This portfolio serves as my personal space on the web to showcase my development journey, technical interests, and work.
-
-## Author 
-
-Nithin Bollineni
